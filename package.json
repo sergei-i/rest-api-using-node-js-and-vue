@@ -1,0 +1,25 @@
+{
+  "name": "rest-api-using-node-js-and-vue",
+  "version": "1.0.0",
+  "description": "Creating REST API app using NodeJS and VueJS",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergei-i/rest-api-using-node-js-and-vue.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergei-i/rest-api-using-node-js-and-vue/issues"
+  },
+  "homepage": "https://github.com/sergei-i/rest-api-using-node-js-and-vue#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "uuid": "^7.0.3"
+  }
+}
